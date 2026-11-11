@@ -26,3 +26,7 @@ python sucked_through_portal.py
 
 ## Preview
 To see the final result without running the code, click on **`Sucked Through the portal.mp4`** in the file list above to view or download the video.
+
+
+![Logo Portal Animation](portalsucker.gif)
+
